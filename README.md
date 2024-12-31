@@ -15,8 +15,9 @@ MATKUL : BAHASA PEMROGRAMAN
 
 # CODE PROGRAM TERSEBUT
 
-![gambar](https://github.com/andreanbadeh/ValidasiFormInput/blob/b18f003243587fe311e7a85aacf5dfbfe2e84f31/Images/validasi.png)
+![image](https://github.com/user-attachments/assets/050995ff-4ed6-4d2a-a392-76723fb1f922)
+
 
 # HASIL PROGRAM TERSEBUT
 
-![ggambar](https://github.com/andreanbadeh/ValidasiFormInput/blob/b18f003243587fe311e7a85aacf5dfbfe2e84f31/Images/Screenshot%202024-12-24%20061454.png)
+![image](https://github.com/user-attachments/assets/44cbf302-4d0f-4cdf-850c-766066cbd7aa)
